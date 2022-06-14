@@ -157,7 +157,7 @@ input::placeholder{
 }
 
 .button__input{
-    width: 155px;
+    width: 215px;
     padding: 20px 30px;
     background-color: var(--accent-color);
     color: #FFFFFF;
